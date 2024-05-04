@@ -47,7 +47,7 @@
    ```
 5. **Clone the Repository**
    ```bash
-   git clone https://github.com/sahilsi552/Tyromusicc && cd Tyromusicc
+   git clone https://github.com/sahilsi552/Tyromusics && cd Tyromusics
    ```
 6. **Install Requirements**
    ```bash
